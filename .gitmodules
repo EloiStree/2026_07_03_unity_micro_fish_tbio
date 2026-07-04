@@ -1,0 +1,9 @@
+[submodule "Packages/be.elab.tbiomicrofish"]
+	path = Packages/be.elab.tbiomicrofish
+	url = https://github.com/EloiStree/2026_07_03_upm_micro_fish_tbio_server.git
+[submodule "Packages/be.elab.tbiolayermirror"]
+	path = Packages/be.elab.tbiolayermirror
+	url = https://github.com/EloiStree/2026_06_29_upm_text_byte_in_out_layer_mirror_rsa.git
+[submodule "Packages/be.elab.udpthreadsender"]
+	path = Packages/be.elab.udpthreadsender
+	url = https://github.com/EloiStree/2020_11_29_upm_udp_thread_in_out_gate.git
